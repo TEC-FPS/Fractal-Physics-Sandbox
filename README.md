@@ -1,6 +1,7 @@
 TEC-FPS is an open-source Fractal Physics Sandbox dedicated to developing dynamic environments that allow for organically emerging functions. 
 It is currently (and forever will be) free to download in the official TEC-FPS Discord (https://discord.gg/TyYwbefE). 
 
+Ensure you have Python, numpy, scipy, and pygame installed.
 
 -----------------Current Features-----------------------
 
